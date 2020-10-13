@@ -1,0 +1,22 @@
+{
+  "name": "closure-externs",
+  "version": "1.0.0",
+  "description": "Externs for google closure.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/honzataj/closure-externs.git"
+  },
+  "keywords": [
+    "closure",
+    "externs"
+  ],
+  "author": "jirik, honzataj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/honzataj/closure-externs/issues"
+  },
+  "homepage": "https://github.com/honzataj/closure-externs#readme"
+}
