@@ -14,7 +14,7 @@
     "externs"
   ],
   "author": "jirik, honzataj",
-  "license": "ISC",
+  "license": "Apache License, Version 2.0",
   "bugs": {
     "url": "https://github.com/honzataj/closure-externs/issues"
   },
